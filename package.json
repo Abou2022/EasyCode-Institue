@@ -1,0 +1,19 @@
+{
+  "name": "easycode-institue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abou2022/EasyCode-Institue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abou2022/EasyCode-Institue/issues"
+  },
+  "homepage": "https://github.com/Abou2022/EasyCode-Institue#readme"
+}
